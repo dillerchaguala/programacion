@@ -141,6 +141,11 @@ public class Main {
         System.out.println("La longitud de una circunferencia es:  "+longitud);
         System.out.println("El area de una circunferencia es:  "+areacirculo);
 
+
+        System.out.println("\n///////////////////////////////////////////////////\n");
+
+
+
         //TODO: calcular el promedio de tres (3) numero ingresados por teclado
 
         System.out.println("CALCULA EL PROMEDIO DE 3 NUMEROS ");
